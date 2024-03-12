@@ -1,0 +1,179 @@
+Vignettes with name or keyword or title matching ‘select’ using fuzzy
+matching:
+
+
+Select::selectSpecies   Vignette for using the selectSpecies( )
+                        function
+tidyselect::syntax      Technical description of tidyselect
+tidyselect::tidyselect
+                        Implementing tidyselect interfaces
+
+
+Type 'vignette("FOO", package="PKG")' to inspect entries 'PKG::FOO'.
+
+
+
+Help files with alias or concept or title matching ‘select’ using fuzzy
+matching:
+
+
+ade4::ecg               Electrocardiogram data
+ade4::elec88            Electoral Data
+ade4::presid2002        Results of the French presidential elections of
+                        2002
+ade4::testdim.multiblock
+                        Selection of the number of dimension by
+                        two-fold cross-validation for multiblock
+                        methods
+base::ifelse            Conditional Element Selection
+base::socketSelect      Wait on Socket Connections
+  Aliases: socketSelect
+base::switch            Select One of a List of Alternatives
+bit::bit-package        bit: Classes and methods for fast
+                        memory-efficient boolean selections
+bit::maxindex.default   Get maxindex (length of boolean vector) and
+                        poslength (number of 'selected' elements)
+bslib::nav_select       Dynamically update nav containers
+  Aliases: nav_select
+catcont::select_cat     select_cat, select_cont
+  Aliases: select_cat, select_cat.default, select_cat.data.table,
+    select_cont, select_cont.default, select_cont.data.table
+checkmate::register_test_backend
+                        Select Backend for Unit Tests
+cli::match_selector     Match a selector to a container stack
+  Aliases: match_selector
+cli::match_selector_node
+                        Match a selector node to a container
+  Aliases: match_selector_node
+cli::parse_selector     Parse a CSS3-like selector
+  Aliases: parse_selector
+cluster::votes.repub    Votes for Republican Candidate in Presidential
+                        Elections
+dbplyr::db-sql          SQL generation generics
+  Aliases: sql_query_select
+dbplyr::lazy_multi_join_query
+                        Build and render SQL from a sequence of lazy
+                        operations
+  Aliases: lazy_select_query, select_query
+dbplyr::select.tbl_lazy
+                        Subset, rename, and reorder columns using their
+                        names
+  Aliases: select.tbl_lazy
+dplyr::arrange_all      Arrange rows by a selection of variables
+dplyr::backend_dbplyr   Database and SQL generics.
+  Aliases: sql_select
+dplyr::defunct          Defunct functions
+  Aliases: select_vars, select_var
+dplyr::distinct_all     Select distinct rows by a selection of
+                        variables
+dplyr::dplyr_tidy_select
+                        Argument type: tidy-select
+  Aliases: dplyr_tidy_select
+dplyr::filter_all       Filter within a selection of variables
+dplyr::group_by_all     Group by a selection of variables
+dplyr::group_cols       Select grouping variables
+dplyr::pick             Select a subset of columns
+dplyr::reexports        Objects exported from other packages
+  Aliases: select_helpers
+dplyr::scoped           Operate on a selection of variables
+dplyr::se-deprecated    Deprecated SE versions of main verbs.
+  Aliases: select_, select_vars_
+dplyr::select           Keep or drop columns using their names and
+                        types
+  Aliases: select
+dplyr::select_all       Select and rename a selection of variables
+  Aliases: select_all, select_if, select_at
+dplyr::top_n            Select top (or bottom) n rows (by value)
+dplyr::vars             Select variables
+dslabs::polls_2008      Poll data for popular vote in 2008 presidential
+                        election
+dslabs::polls_us_election_2016
+                        Fivethirtyeight 2016 Poll Data
+  Aliases: polls_us_election_2016, results_us_election_2016
+dtplyr::select.dtplyr_step
+                        Subset columns using their names
+  Aliases: select.dtplyr_step
+furrr::future_modify    Modify elements selectively via futures
+ggplot2::hmisc          A selection of summary functions from Hmisc
+KernSmooth::dpih        Select a Histogram Bin Width
+KernSmooth::dpik        Select a Bandwidth for Kernel Density
+                        Estimation
+KernSmooth::dpill       Select a Bandwidth for Local Linear Regression
+MASS::bcv               Biased Cross-Validation for Bandwidth Selection
+MASS::hist.scott        Plot a Histogram with Automatic Bin Width
+                        Selection
+MASS::lm.ridge          Ridge Regression
+  Aliases: select, select.ridgelm
+MASS::ucv               Unbiased Cross-Validation for Bandwidth
+                        Selection
+MASS::width.SJ          Bandwidth Selection by Pilot Estimation of
+                        Derivatives
+Matrix::[<--methods     Methods for "[<-" - Assigning to Subsets for
+                        'Matrix'
+  Aliases: [<-,diagonalMatrix,index,index,sparseVector-method,
+    [<-,diagonalMatrix,index,missing,sparseVector-method,
+    [<-,diagonalMatrix,missing,index,sparseVector-method,
+    [<-,TsparseMatrix,missing,index,sparseVector-method,
+    [<-,TsparseMatrix,index,missing,sparseVector-method,
+    [<-,TsparseMatrix,index,index,sparseVector-method,
+    [<-,CsparseMatrix,missing,index,sparseVector-method,
+    [<-,CsparseMatrix,index,missing,sparseVector-method,
+    [<-,CsparseMatrix,index,index,sparseVector-method,
+    [<-,RsparseMatrix,missing,index,sparseVector-method,
+    [<-,RsparseMatrix,index,missing,sparseVector-method,
+    [<-,RsparseMatrix,index,index,sparseVector-method
+Matrix::%*%-methods     Matrix (Cross) Products (of Transpose)
+  Aliases: %*%,mMatrix,sparseVector-method,
+    %*%,sparseVector,mMatrix-method,
+    %*%,sparseVector,sparseVector-method,
+    %*%,numLike,sparseVector-method, %*%,sparseVector,numLike-method,
+    crossprod,mMatrix,sparseVector-method,
+    crossprod,sparseVector,mMatrix-method,
+    crossprod,sparseVector,missing-method,
+    crossprod,sparseVector,sparseVector-method,
+    crossprod,numLike,sparseVector-method,
+    crossprod,sparseVector,numLike-method,
+    tcrossprod,mMatrix,sparseVector-method,
+    tcrossprod,sparseMatrix,sparseVector-method,
+    tcrossprod,sparseVector,mMatrix-method,
+    tcrossprod,sparseVector,missing-method,
+    tcrossprod,sparseVector,sparseMatrix-method,
+    tcrossprod,sparseVector,sparseVector-method,
+    tcrossprod,numLike,sparseVector-method,
+    tcrossprod,sparseVector,numLike-method
+Matrix::%&%             Boolean Arithmetic Matrix Products: '%&%' and
+                        Methods
+  Aliases: %&%,mMatrix,sparseVector-method,
+    %&%,numLike,sparseVector-method, %&%,sparseVector,mMatrix-method,
+    %&%,sparseVector,numLike-method,
+    %&%,sparseVector,sparseVector-method
+Matrix::all.equal-methods
+                        Matrix Package Methods for Function all.equal()
+  Aliases: all.equal,sparseVector,sparseVector-method,
+    all.equal,sparseMatrix,sparseVector-method,
+    all.equal,sparseVector,sparseMatrix-method,
+    all.equal,sparseVector,ANY-method,
+    all.equal,ANY,sparseVector-method
+Matrix::is.finite,ddenseMatrix-method
+                        is.na(), is.infinite() Methods for 'Matrix'
+                        Objects
+  Aliases: anyNA,nsparseVector-method, anyNA,sparseVector-method
+Matrix::solve           Methods in Package Matrix for Function
+                        'solve()'
+  Aliases: solve,Matrix,sparseVector-method
+Matrix::sparseVector    Sparse Vector Construction from Nonzero Entries
+  Aliases: sparseVector
+Matrix::sparseVector-class
+                        Sparse Vector Classes
+  Aliases: sparseVector-class, dsparseVector-class,
+    isparseVector-class, lsparseVector-class, nsparseVector-class,
+    zsparseVector-class, xsparseVector-class,
+    Arith,sparseVector,sparseVector-method,
+    Arith,dsparseVector,dsparseVector-method,
+    -,dsparseVector,missing-method, !,sparseVector-method,
+    Logic,sparseVector,sparseVector-method,
+    Logic,lsparseVector,lsparseVector-method,
+    Logic,nsparseVector,nsparseVector-method,
+    Ops,ANY,sparseVector-method, Ops,sparseVector,ANY-method,
+    Ops,sparseVector,sparseVector-method,
+    Ops,sparseVec
